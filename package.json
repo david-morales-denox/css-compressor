@@ -3,7 +3,7 @@
   "displayName": "CSS Compressor",
   "description": "Minify or Compact your CSS files",
   "version": "0.0.1",
-  "publisher": "bestvow",
+  "publisher": "davidml",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.19.0"
@@ -70,6 +70,6 @@
     "vscode": "^1.1.21"
   },
   "dependencies": {
-    "clean-css": "^4.2.1"
+    "clean-css": "^5.3.2"
   }
 }
